@@ -1,0 +1,50 @@
+img{
+	width: 150px;
+	height: 150px
+}
+h2{
+	text-align: center;
+	background-color: pink;
+	color: black;
+}
+h1{
+	text-align: center;
+	color: black;
+
+}
+#section1{
+	float: left;
+	width: 500px;
+}
+#section2{
+	float: right;
+	width: 700px;
+}
+.tout{
+	border: 2px solid black;
+
+}
+
+#photo p a{
+	text-decoration: none;
+}
+
+.language  .bar{
+	position: absolute;
+	width: 35%;
+	height: 6px;
+	display: block;
+	margin-top: 3px;
+	background: orange;
+}
+
+.language .bar div{
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 3px;
+	height: 35%;
+	background: black;
+}
+
+@import media
