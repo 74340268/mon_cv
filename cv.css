@@ -4,7 +4,7 @@ img{
 }
 h2{
 	text-align: center;
-	background-color: pink;
+	background-color: rgb(216, 207, 209);
 	color: black;
 }
 h1{
@@ -35,7 +35,7 @@ h1{
 	height: 6px;
 	display: block;
 	margin-top: 3px;
-	background: orange;
+	background: grey;
 }
 
 .language .bar div{
